@@ -9,7 +9,7 @@
 ---
 
 **Dataset**
-- **Source**: Kaggle dataset (`salader/dogs-vs-cats`) downloaded via `kagglehub`.
+- **Source**: Kaggle dataset: [`salader/dogs-vs-cats`](https://www.kaggle.com/datasets/salader/dogs-vs-cats)
 - **Structure**:
   - **Training Set**: 20,000 images (10,000 cats, 10,000 dogs).
   - **Test Set**: 5,000 images (2,500 cats, 2,500 dogs).

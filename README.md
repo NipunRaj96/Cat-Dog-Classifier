@@ -21,7 +21,6 @@
 - Python 3.11
 - TensorFlow/Keras
 - `kagglehub` for dataset download
-- PIL (Python Imaging Library)
 - NumPy
 - A valid Kaggle API token (`kaggle.json`) placed in the `~/.kaggle/` directory
 

@@ -3,7 +3,7 @@
 ---
 
 **Overview**
-- This project implements a deep learning model to classify images as either cats or dogs using a pre-trained ResNet50 model with TensorFlow/Keras achieving an accuracy of 98.76% on both training and testing data.
+- This project implements a deep learning model to classify images as either cats or dogs using a pre-trained ResNet50 model with TensorFlow/Keras achieving an accuracy of **`98.76%`** on both training and testing data.
 - The dataset is sourced from Kaggle's "Dogs vs. Cats" dataset, and the model is trained with data augmentation to improve generalization and reduce overfitting.
 
 ---

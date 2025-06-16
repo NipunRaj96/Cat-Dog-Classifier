@@ -91,3 +91,5 @@ The model summary details the ResNet50 architecture followed by custom layers. K
 - Increase epochs or adjust learning rate for better convergence.
 - Add validation split to monitor performance during training.
 - Explore additional data augmentation techniques or other pre-trained models.
+
+![gif](dogvscat.gif)
